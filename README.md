@@ -1,4 +1,4 @@
-This is the first project from the odin project. Its meant to be a very basic html only recipes website. I hope you enjoy my recipes! I want to add styles to this website and make it more robust in the future but for now I prefer to be focused on these lessons.
+This is the first project from the odin project. Its meant to be a very basic html only recipes website. I hope you enjoy my recipes!
 
 ## Table of contents
 
