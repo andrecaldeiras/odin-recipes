@@ -18,7 +18,7 @@ This is the first project from the odin project. Its meant to be a very basic ht
 ### Links
 
 - The Odin Project Lesson: [https://www.theodinproject.com/lessons/foundations-recipes](https://www.theodinproject.com/lessons/foundations-recipes)
-- Live Site URL: [https://andrecaldeiras.github.io/odin-recipes/index.html](https://andrecaldeiras.github.io/odin-recipes/index.html)
+- Live Site URL: [https://andrefhcaldeira.github.io/odin-recipes/](https://andrefhcaldeira.github.io/odin-recipes/)
 
 
 ## My process
